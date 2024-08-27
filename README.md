@@ -1,8 +1,8 @@
 # student-data-ownership
 # Student Data Ownership Smart Contract
-
-## Vision
 ![Screenshot 2024-08-27 154325](https://github.com/user-attachments/assets/5dbba8cc-fcd2-4083-95cf-70919b1282d5)
+## Vision
+
 
 
 The **Student Data Ownership** smart contract is designed to give students complete control over their academic data on the Ethereum blockchain. This contract allows students to securely create, update, and manage their personal educational records, including grades, courses, and certifications. Additionally, it provides functionality for students to share or revoke access to their data, ensuring transparency and privacy in data management.
@@ -54,6 +54,8 @@ The **Student Data Ownership** smart contract is designed to give students compl
 ```
 
 ## Contract Address
+![Screenshot 2024-08-27 155204](https://github.com/user-attachments/assets/7e0d153c-a945-4103-878d-9be1b415cc2e)
+
 
 The current deployment address for the Student Data Ownership smart contract is 0x3698085f2e1d34f2a91822a9fc90962c617637d6. Please ensure to replace this with the actual address once the contract is deployed on the Ethereum network.
 
