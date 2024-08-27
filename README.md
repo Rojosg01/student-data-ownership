@@ -71,7 +71,7 @@ For further details or inquiries, please contact:
 
 - **Project Lead:** Rohit T Sangma
 - **Email:** rohitsangma17@gmail.com
-- **GitHub:** [Your GitHub Profile](https://github.com/yourprofile)
+- **GitHub:** https://github.com/Rojosg01
 
 Feel free to reach out for collaboration, feedback, or support related to the Student Data Ownership project.
 
